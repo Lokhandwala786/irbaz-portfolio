@@ -26,7 +26,7 @@ function App() {
     const GoToResume = () => {
         console.log("Resume button clicked!");
         window.open(
-            "https://drive.google.com/file/d/1b7I8vLwmLuo2Whbmsa_OgBcw_YRdvC0l/view?usp=sharing",
+            "https://drive.google.com/file/d/1x_ro7B4ENtHaV2peV0Ly4QXMM7yQGN3L/view?usp=sharing",
             "_blank"
         );
     };
